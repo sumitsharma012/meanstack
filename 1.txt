@@ -1,0 +1,163 @@
+        REFERENCE DATA TYPE	
+
+	var obj={ name:'Bahubali', course: 'GNIIT', age: 20};
+
+	undefined
+
+	typeof obj
+
+	"object"
+
+	obj.name
+
+	"Bahubali"
+
+	obj.course
+
+	"GNIIT"
+
+	obj.age
+
+	20
+
+	var obj1=obj
+
+	undefined
+
+	obj1
+	Object {name: "Bahubali", course: "GNIIT", age: 20}
+
+	delete obj.age
+
+	true
+
+	obj
+
+	Object {name: "Bahubali", course: "GNIIT"}
+
+
+
+
+
+	ARITHMETIC Operators
+	
+	ADDITION
+
+	var a = 10;
+
+	undefined
+var 
+	b = 5;
+
+	undefined
+var 
+	x= a + b;
+
+	undefined
+
+	x
+15
+
+	SUBTRACTION
+
+	var a=7;
+
+	undefined
+var
+	b=2;
+
+	undefined
+var
+ 	c = a-b;
+
+	undefined
+
+	c
+
+	5	
+
+
+	MULTIPLICATION
+
+	var a =10;
+
+	undefined
+
+	var b =5;
+
+	undefined
+var
+	c= a*b;
+undefined
+
+	c
+
+	50
+
+	DIVISION
+
+	Var c =7;
+
+	undefined
+
+	var d=5;
+
+	undefined
+
+	var e = c/d;
+
+	undefined
+
+	e
+	1.4
+
+	MODULUS
+
+
+	var d=5;
+
+	undefined
+
+	var e=3;
+
+	undefined
+
+	var f= d % e;
+
+	undefined
+
+	f
+
+	2
+
+	INCREMENTING
+
+	var a=7;
+
+	undefined
+
+	a++;
+
+	7
+
+	a
+
+	8
+
+	DECREMENTING
+
+	var x=5;
+
+	undefined
+
+	x--;
+
+	5
+
+	var z=x;
+
+	undefined
+
+	x
+
+	4
